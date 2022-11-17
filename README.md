@@ -5,3 +5,95 @@
 
 This repository contains all of the notes taken by Andrew for the Lighthouse Labs Web Development Bootcamp.
 [Lighthouse Labs](https://www.lighthouselabs.ca/) taken by [Andrew](https://github.com/AndrewGalatsan) for the first time.
+
+## Table of Contents
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Lecture_1)
+  * Lecture 2
+* Week 2
+  * Lecture 1
+  * Lecture 2
+* Week 3
+  * Lecture 1
+  * Lecture 2
+* Week 4
+  * Lecture 1
+  * Lecture 2
+* Week 5
+  * Lecture 1
+  * Lecture 2
+* Week 6
+  * Lecture 1
+  * Lecture 2 
+* Week 7
+  * Lecture 1
+  * Lecture 2
+* Week 8
+  * Lecture 1
+  * Lecture 2
+* Week 9
+  * Lecture 1
+  * Lecture 2
+* Week 10
+  * Lecture 1
+  * Lecture 2
+* Week 11
+  * Lecture 1
+  * Lecture 2
+* Week 12
+  * Lecture 1
+  * Lecture 2
+* Week 13
+  * Lecture 1
+  * Lecture 2
+* Week 14
+  * Lecture 1
+  * Lecture 2
+* Week 15
+  * Lecture 1
+  * Lecture 2 
+* Week 16
+  * Lecture 1
+  * Lecture 2
+* Week 17
+  * Lecture 1
+  * Lecture 2
+* Week 18
+  * Lecture 1
+  * Lecture 2
+* Week 19
+  * Lecture 1
+  * Lecture 2
+* Week 20
+  * Lecture 1
+  * Lecture 2
+* Week 21
+  * Lecture 1
+  * Lecture 2
+* Week 22
+  * Lecture 1
+  * Lecture 2
+* Week 23
+  * Lecture 1
+  * Lecture 2
+* Week 24
+  * Lecture 1
+  * Lecture 2
+* Week 25
+  * Lecture 1
+  * Lecture 2
+* Week 26
+  * Lecture 1
+  * Lecture 2 
+* Week 27
+  * Lecture 1
+  * Lecture 2
+* Week 28
+  * Lecture 1
+  * Lecture 2
+* Week 29
+  * Lecture 1
+  * Lecture 2
+* Week 30
+  * Lecture 1
+  * Lecture 2
