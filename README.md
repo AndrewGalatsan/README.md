@@ -8,10 +8,10 @@ This repository contains all of the notes taken by Andrew for the Lighthouse Lab
 
 ## Table of Contents
 * [Week 1](/Week_1)
-  * [Lecture 1](/Week_1/Lecture_1)
-  * Lecture 2
+  * [Lecture 1](/Week_1/Lecture_1/What_Should_I_Do_for_Lunch_Tips.md)
+  * [Lecture 2](/Week_1/Lecture_2/Notes1.md)
 * Week 2
-  * Lecture 1
+  * [Lecture 1](/Week_2/Lecture_1/Lecture_1.md)
   * Lecture 2
 * Week 3
   * Lecture 1
